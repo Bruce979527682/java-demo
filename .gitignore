@@ -3,3 +3,6 @@
 /demo-model/target
 target
 /demo-api/*.iml
+/java-demo.iml
+/demo-model/demo-model.iml
+/demo-service/demo-service.iml
