@@ -18,7 +18,7 @@
 
         <!--mysql配置-->
         <!--数据库连接的信息：驱动类、连接地址、用户名、密码 -->
-        <jdbcConnection driverClass="com.mysql.jdbc.Driver"
+        <jdbcConnection driverClass="com.mysql.cj.jdbc.Driver"
                         connectionURL="jdbc:mysql://127.0.0.1:3306/web?useSSL=false&amp;serverTimezone=UTC&amp;allowPublicKeyRetrieval=true"
                         userId="root"
                         password="123456">
